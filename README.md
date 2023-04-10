@@ -1,4 +1,4 @@
-![logo](https://github.com/Kirti-kn/Kirti-kn/blob/main/upper_logo.gif)
+![logo](https://github.com/Kirti-kn/Kirti-kn/blob/main/upper_logo2.gif)
 
 <h3 align="center">I'm a ML/AI and Web development enthusiast.</h3>
 <h3 align="left">Currently studying in 2nd year, Computer Science branch under B.Tech. program at International Institute of Information Technology, Bhubaneswar.</h3>
